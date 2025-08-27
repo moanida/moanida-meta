@@ -2,10 +2,11 @@
   "name": "Moanida",
   "symbol": "MXA",
   "description": "Moanida (MXA): Love on the Blockchain — A real story turned into a global token.",
-  "image": "ipfs://bafybeiebiba4c7plzacg7rcw6lnhmfxpzujaejwh2ysashdjunywvnmly4/mxa.png",
+  "image": "https://github.com/moanida/moanida-meta/blob/775841876c4868c21e8d851c1dacbd74a775f169/MXA.png",
   "attributes": [
     { "trait_type": "Category", "value": "Love" },
     { "trait_type": "Origin", "value": "Global" },
     { "trait_type": "Supply", "value": "14,000,000" }
   ]
 }
+
